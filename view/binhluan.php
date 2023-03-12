@@ -26,7 +26,6 @@
                 echo   '<ul>
                             <li><a href=""><i class="fa fa-user"></i>'.$iduser.'</a></li>
                             <li><a href=""><i class="fa fa-clock-o"></i>'.$ngaybinhluan.'</a></li>
-                            <li><a href=""><i class="fa fa-calendar-o"></i>'.$ngaybinhluan.'</a></li>
                         </ul>
                         <p>'.$noidung.'</p>';
                 
